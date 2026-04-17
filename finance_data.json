@@ -1,0 +1,32 @@
+[
+    {
+        "turul": "1",
+        "utga": "1000",
+        "dun": 10000.0
+    },
+    {
+        "turul": "2",
+        "utga": "hool",
+        "dun": 10.0
+    },
+    {
+        "turul": "1",
+        "utga": "1",
+        "dun": 1000.0
+    },
+    {
+        "turul": "2",
+        "utga": "hool",
+        "dun": 20.0
+    },
+    {
+        "turul": "1",
+        "utga": "orlogo",
+        "dun": 10000.0
+    },
+    {
+        "turul": "2",
+        "utga": "zarlaga",
+        "dun": 2000.0
+    }
+]
